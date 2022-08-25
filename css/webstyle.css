@@ -1,0 +1,10 @@
+h1 {
+colour: green;
+cursor: url("../images/cursor1.png"), auto;
+}
+
+body{
+background-color: white;
+cursor: url("../images/cursor1.png"), auto;
+
+}
